@@ -13,8 +13,8 @@ tonight instead of your project's real API.
 import requests
 
 # Richmond, VA -- change these to your own hometown later and re-run.
-LATITUDE = 37
-LONGITUDE = -77
+LATITUDE = 37.77
+LONGITUDE = -77.77
 
 
 def get_current_weather(latitude, longitude):
